@@ -4,8 +4,11 @@ python -mpip install matplotlib
 pip install numpy
 pip install sympy
 
-Para observar apropiadamente el tema del notebook se recomienda ejecutar el siguiente comando:
+Para observar apropiadamente el tema del notebook se recomienda ejecutar los siguientes comandos:
 pip install jupyterthemes
-
-Seguidamente dentro de la misma consola ejecutar la siguiente línea y reiniciar el servidor de Jupyter:
 jt -t grade3
+
+por ultimo ejecutar el comando:
+jupyter notebook
+
+y abrir el archivo dentro del notebook
