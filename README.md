@@ -1,6 +1,7 @@
 # Stochastic-Gradient-Decent
 Para ejecutar el notebook correctamente, se deben ejecutar los siguientes comandos para instalar las dependencias:
-```python -mpip install matplotlib
+```
+python -mpip install matplotlib
 pip install numpy
 pip install sympy
 ```
